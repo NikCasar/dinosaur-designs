@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
-  font-family: Gergia, serif;
-  font-family: 'Patua One', sans-serif;
+  font-family: Georgia, serif;
+  font-family: "Patua One", sans-serif;
   line-height: 1.5;
 }
 
@@ -10,7 +10,6 @@ img {
 }
 
 h1, h2 {
-  font-family: Gergia, serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -19,12 +18,12 @@ figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
+  font-family: Georgia, serif;
 }
 
 nav {
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: Gergia, serif;
 }
 
 nav ol {
