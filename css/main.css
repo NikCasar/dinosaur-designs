@@ -5,24 +5,26 @@ html {
   line-height: 1.5;
 }
 
-  img {
-    width: 100%;
-  }
+img {
+  width: 100%;
+}
 
-  h1, h2 {
-    color: #5d8432;
-    text-transform: uppercase;
-  }
+h1, h2 {
+  font-family: Gergia, serif;
+  color: #5d8432;
+  text-transform: uppercase;
+}
 
-  figcaption {
-    font-size: .8rem;
-    font-style: italic;
-    text-align: center;
-  }
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
+}
 
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: Gergia, serif;
 }
 
 nav ol {
